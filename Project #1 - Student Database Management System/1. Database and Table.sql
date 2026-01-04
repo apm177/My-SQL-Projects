@@ -17,5 +17,4 @@ CREATE TABLE student(
 );
 ###________________________________________________________________###
 
-DROP TABLE student;
-DROP DATABASE student_database; 
+
